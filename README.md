@@ -1,7 +1,7 @@
 # Menu Items
 
 ### Overview
-A Men Items App that fetches available menu and displays it to the UI.
+A Menu Items App that fetches available menu and displays it to the UI.
 
 ### How to start
 
